@@ -1,4 +1,4 @@
-# This service enables the setting of the list of FTM Devices that will be queried by the FTMSensor
+# This service enables configuring the list of FTM Devices with which to perform FTM range measurements
 string[] mac_list  # a list of macs addresses of devices with FTM capabilities
 ---
 uint8 STATUS_SUCCESS = 0
