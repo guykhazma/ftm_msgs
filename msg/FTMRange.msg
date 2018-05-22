@@ -5,7 +5,7 @@ int64 rtt
 uint64 rtt_var
 uint64 rtt_spread
 float32 range		# The range that was measured
-uint64 distance_var
-uint64 distance_spread
+uint64 range_var	
+uint64 range_spread
 int8 rssi
 uint8 rssi_spread
