@@ -1,0 +1,6 @@
+# This service enables the setting of the list of FTM Devices that will be queried by the FTMSensor
+string[] mac_list  # a list of macs addresses of devices with FTM capabilities
+---
+uint8 STATUS_SUCCESS = 0
+uint8 STATUS_INVALID_MAC = 1
+uint8 status

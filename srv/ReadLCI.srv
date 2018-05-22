@@ -1,0 +1,5 @@
+# Read specific data from the LCI Registry
+string[] mac_list  # a list of macs to read lci
+---
+LCIRegistryEntry[] lci_entry_list	# the lci entries of the responders with the requested mac addresses
+uint8 status				# as defined in LCIRegistryConstants.msg

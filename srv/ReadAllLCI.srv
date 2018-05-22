@@ -1,0 +1,4 @@
+# Service with no arguments to get all of the data in the LCI Registry
+---
+LCIRegistryEntry[] lci_entry_list	# the lci entries of the responders with the requested mac addresses
+uint8 status				# as defined in LCIRegistryConstants.msg

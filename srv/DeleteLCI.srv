@@ -1,0 +1,4 @@
+# delete LCI data to the registry
+string[] mac_list	# a list of macs to delete lci for
+---
+uint8 status		# as defined in LCIRegistryConstants.msg

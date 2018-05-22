@@ -1,0 +1,4 @@
+# add LCI data to the registry
+LCIData[] lci_data_list		# a list of lci to add to registry
+---
+uint8 status			# as defined in LCIRegistryConstants.msg
