@@ -9,3 +9,5 @@ The recommended interface consists of three main blocks:
 	- Stores FTM Responders data
 	- Subscribes to ftm/lci topic in order to update its data structure
 	- Exposes CRUD services
+	
+ftm_msgs package provides the definitions of the Messages, Services and Actions needed in order to implement the architecture described above.
