@@ -1,6 +1,6 @@
 Header header
-string host_mac		# The mac address of the requesting station
-string target_mac	# The mac address of the device with FTM capabilities	
+string host_mac		# The mac address of the station that performed the FTM range measurements
+string target_mac	# The mac address of the station with which the FTM range measurements was performed
 int64 rtt		
 uint64 rtt_var
 uint64 rtt_spread
