@@ -16,7 +16,7 @@
 		- Exposes CRUD services
   </description>
 
-  <maintainer email="none@none.none">No maintainer</maintainer>
+  <maintainer email="ros-orphaned-packages@googlegroups.com">ROS Orphaned Package Maintainers</maintainer>
 
   <license>BSD</license>
 
