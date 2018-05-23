@@ -3,9 +3,8 @@
   <name>ftm_msgs</name>
   <version>1.0.0</version>
   <description>
-	The ftm_msgs package provides a recommended interface to be used when developing FTM application in ROS.
-	<br />
-	The recommended interface consists of three main blocks:
+	<p>The ftm_msgs package provides a recommended interface to be used when developing FTM application in ROS.</p>
+	<p> The recommended interface consists of three main blocks:
 	<br />
 	1. FTMSensor - a node that performs periodic FTM measurements for a given list of FTM Responders.
 	<br />
@@ -25,7 +24,8 @@
 		<br />
 		- Exposes CRUD services
 		<br />
-	ftm_msgs package provides the definitions of the Messages, Services and Actions needed in order to implement the architecture described above.
+	</p>
+	<p>ftm_msgs package provides the definitions of the Messages, Services and Actions needed in order to implement the architecture described above.</p>
   </description>
 
   <maintainer email="ros-orphaned-packages@googlegroups.com">ROS Orphaned Package Maintainers</maintainer>
