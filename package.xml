@@ -33,6 +33,7 @@
   <license>BSD</license>
 
   <url type="repository">http://wiki.ros.org/ftm_msgs</url>
+  <url type="website">http://wiki.ros.org/ftm_msgs</url>
 
   <author email="gilakiva@mail.tau.ac.il">Gil Akiva</author>
   <author email="guykhazma@mail.tau.ac.il">Guy Khazma</author>
